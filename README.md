@@ -1,4 +1,16 @@
-# IEEE LEAD 2.0
+# Portfolio Website
+
+## Name-Aryan Akhouri
 
 
-### Student repository for a project submitted during IEEE LEAD 2.0.
+
+### Milestones Achieved
+
+1.Skills page
+2.About page
+3.Project page
+
+### Tech Stack
+
+1.HTML
+2.CSS
